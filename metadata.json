@@ -1,0 +1,6 @@
+{
+  "name": "AntibioGuide AI",
+  "description": "Assistant intelligent pour la recommandation d'antibiotiques, dosage et durée basé sur le profil patient et l'antibiogramme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
